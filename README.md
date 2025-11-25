@@ -61,7 +61,8 @@ plt.plot(t, susb)
 <img width="1260" height="736" alt="Dsbsc using python" src="https://github.com/user-attachments/assets/6a120de8-bb74-43cb-9d5e-e9538c6044ca" />
 
 # Tabular Column:
-![7th table](https://github.com/user-attachments/assets/b19539d7-d305-4b74-8654-a1630d8f44b4)
+![DSBSC PYTHON](https://github.com/user-attachments/assets/81f618d2-5b5b-4b36-983a-847c5da292ab)
+
 
 # Result:
 The message, carrier, and DSB-SC modulated signals are successfully generated and displayed using Python. Thus, DSB-SC modulation is implemented using NumPy and Matplotlib.
